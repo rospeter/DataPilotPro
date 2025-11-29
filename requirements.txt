@@ -1,5 +1,9 @@
 customtkinter
+
 matplotlib
+
 numpy
+
+pandas
+
 scikit-learn
-packaging
